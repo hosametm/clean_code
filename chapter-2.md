@@ -1,5 +1,5 @@
+#### Chapter Two (Meaningful Names) :
 
-#### Chapter Two (Meaningful Names)
 ### Section 1 :
 
 ## Use Intention-Revealing Names
